@@ -15,7 +15,7 @@ gem 'middleman', '>= 4.0.0'
 gem 'middleman-livereload'
 gem 'middleman-compass', '>= 4.0.0'
 
-gem 'middleman-gh-pages'
+gem 'middleman-gh-pages', '>= 0.3.1'
 gem 'less'
 gem 'therubyracer'
 

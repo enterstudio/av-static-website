@@ -100,7 +100,7 @@ GEM
       servolux
       tilt (~> 1.4.1)
       uglifier (~> 3.0)
-    middleman-gh-pages (0.3.1)
+    middleman-gh-pages (0.4.1)
       rake (> 0.9.3)
     middleman-livereload (3.4.6)
       em-websocket (~> 0.5.1)
@@ -129,7 +129,7 @@ GEM
       rack
     rack-test (0.6.3)
       rack (>= 1.0)
-    rake (11.1.2)
+    rake (13.0.1)
     rb-fsevent (0.9.7)
     rb-inotify (0.9.7)
       ffi (>= 0.5.0)
@@ -160,7 +160,7 @@ DEPENDENCIES
   middleman (>= 4.0.0)
   middleman-blog
   middleman-compass (>= 4.0.0)
-  middleman-gh-pages
+  middleman-gh-pages (>= 0.3.1)
   middleman-livereload
   middleman-syntax
   redcarpet (~> 3.3, >= 3.3.3)
@@ -172,4 +172,4 @@ RUBY VERSION
    ruby 2.3.1p112
 
 BUNDLED WITH
-   1.13.2
+   1.17.3
