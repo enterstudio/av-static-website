@@ -11,9 +11,9 @@ gem 'wdm', '~> 0.1.0', platforms: [:mswin, :mingw]
 gem 'tzinfo-data', platforms: [:mswin, :mingw, :jruby]
 
 # Middleman Gems
-gem 'middleman', '>= 4.0.0'
+gem 'middleman', '>= 4.4.0'
 gem 'middleman-livereload'
-gem 'middleman-compass', '>= 4.0.0'
+gem 'middleman-compass', '>= 4.0.1'
 
 gem 'middleman-gh-pages'
 gem 'less'
@@ -22,7 +22,7 @@ gem 'therubyracer'
 gem 'middleman-blog'
 gem 'middleman-syntax'
 
-gem 'redcarpet', '~> 3.3', '>= 3.3.3'
+gem 'redcarpet', '~> 3.5', '>= 3.5.1'
  
 # For feed.xml.builder
 gem 'builder', '~> 3.0'
